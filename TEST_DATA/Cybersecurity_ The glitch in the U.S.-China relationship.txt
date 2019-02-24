@@ -1,0 +1,28 @@
+Tensions are rising on a number of fronts: The global impact of China's market meltdown; island building in the South China Sea; and that persistent glitch in the U.S.-China relationship -- cybersecurity.
+The massive data breach at the U.S. Office of Personnel Management (OPM) made headlines for its sheer size. Targeting the data for almost 22 million people, it's been called the worst breach of government-held personal data in U.S. history.
+U.S. Director of National Intelligence James Clapper said that China is the "leading suspect" in the breach, though if the tables were turned the U.S. would have carried out a similar hack on China: "If we had the opportunity to do the same thing, we'd probably do it."
+READ: China's latest cyberweapon: The Great Cannon
+Fair game?
+Let's face it, OPM was an easy target.
+U.S. cyber defenses were down. And in this era of digital "spy versus spy," a cyber-breach of government data is often regarded as fair game.
+Cyber espionage has become such an expected reality in geopolitics that U.S. Secretary of State John Kerry recently admitted that it's "very likely" China -- along with Russia -- is reading his emails.
+But that's not the case with corporate espionage. 
+The U.S. pushes back harder -- a lot harder -- against the cyber theft of company data and trade secrets. "It is far more firm and that's the line that the U.S. is trying to draw -- 'It's okay to spy on governments, everybody does that. It's not okay to spy on company secrets'," Washington Post Beijing bureau chief Simon Denyer tells me in the latest episode of CNN's "On China."
+READ: Study: China cybercensors attack outside its borders
+What kind of corporate data is China going after?
+"Trade secrets, it could be business plans, marketing plans, it varies. We've seen many, many industries targeted," said Wias Issa, Asia-Pacific senior director of the computer security firm FireEye.  
+Two years ago, Mandiant -- now a FireEye company -- issued a landmark report that traced cyberattacks against 141 U.S. companies, across 20 industries, to a secret Chinese military unit.
+READ: How China could have hacked U.S. government in 10 steps
+Mandiant uncovered what is claimed was widespread Chinese state-sponsored cyber theft of trade secrets -- a practice that could be rationalized by Beijing as a matter of state security.
+"The economy is so central to the Communist Party's legitimacy that spying for the sake of benefiting state-owned companies for example is part of the government's national strategy," said Denyer.
+According to that analysis, China is hacking American companies to strengthen its economy and the Party. But that equation doesn't sit well with Peking University scholar Zha Daojiong, who believes cyber theft should never be a shortcut for economic growth.
+"Spying may be a part of the world for a company to cut corners in advancing itself, but for me as a scholar if I had a chance to inform political debate within China, it's not the so-called loss of face, it's not the pursuit of GDP growth and the cost, it's whether or not you want to have a society of thieves."
+China a victim too?
+Chinese authorities have long called the hacking accusations unfounded and repeatedly stress that it too is a victim of Internet attacks -- albeit more of the diplomatic espionage variety, as opposed to corporate theft.
+With both sides talking past each other on the high-stakes issue of cybersecurity, Zha recommends a reset in the relationship in the form of setting a new common cyber goal.
+"When Mr. Xi and Mr. Obama meet in September, they should make a joint announcement of working toward setting up a working group to define cyber crime and to find ways of collaborating in dealing with cyber crime.
+"There has to be a common template of what's not acceptable behavior... like dealing with climate change."
+Aiming for an agreed set of cyber "road rules" is a lofty goal, but a tough one to carry out as the U.S. presidential election season kicks into gear. Like in previous election cycles, China bashing on the campaign trail is well underway.
+On the prospects for a U.S.-China cyber agreement, FireEye's Issa was not overly optimistic. "I hope we can get there one day," he said.
+"But as long as there are nations, and those nations have diverse interests, they will continue to gather intelligence about each other."
+Because this is what countries do. They spy on each other.
