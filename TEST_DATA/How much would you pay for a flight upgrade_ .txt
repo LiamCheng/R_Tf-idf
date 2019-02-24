@@ -1,0 +1,52 @@
+So why not airline seats? 
+Real-time open auctions are coming to the aviation industry. 
+They've already been adopted by a handful of airlines for business class upgrades, but could also soon be available for all types of tickets. 
+These real-time auctions are online, not in a room crowded with people raising their hands -- but the exhilaration of securing a bargain is just as intense. 
+A no-brainer? 
+At first glance the concept sounds like a no-brainer.
+Let's say you're an airline. One of your flights is about to depart and you still have a few empty seats in business class. 
+You might advertise this fact to your economy class passengers and tell them you're ready to accept offers from those willing to upgrade.
+You'll make some extra revenue from seats that otherwise will remain empty, while a few lucky clients get a significantly enhanced passenger experience. 
+But is it as simple as that? 
+MORE: Low-cost airlines: They changed the world -- but what next? 
+Delicate balance
+The reality's a bit more complex, as airlines need to consider the delicate balance between pricing and brand and the long-term business implications. 
+What happens to the perceived value of your product when you repeatedly give it away as a bargain? 
+What if regular business class passengers stop paying full-fare because they know they've a good chance of getting a last-minute upgrade on the cheap? 
+Transparency trade-off
+Usually this dilemma is solved by trading off transparency for lower prices. 
+U.S. company Priceline.com's Name Your Own Price system has users submit a bid for a specific travel itinerary, which may then be accepted or rejected. 
+The travel operators and exact schedules aren't disclosed until the booking's been confirmed, and once the offer is accepted you can't change or cancel it. 
+Stuart Barwood, managing director of UK-based airline consultancy Travercial, points out that airlines must be very careful about how they dispose of "distressed seats" -- the term for seats at risk of remaining empty. 
+He says auctions can work if the airline manages to target the right passenger segments in an elegant way, without cannibalizing the existing business.
+Big data
+It's at this point that big-data customer intelligence solutions become the airlines' best ally. 
+One way they can do this is offering the option to bid for upgrades to those passengers that represent the best long-term prospects. 
+It might be the small business owner who's a frequent flier, but remains reluctant to splash out on a costly business class fare.
+Or perhaps it's the professional who switches to economy class when traveling for leisure. 
+By allowing these travelers to bid for upgrades at advantageous prices the airline not only gets that extra bit of revenue but also significantly improves their passengers' experience. 
+This gives them a taste of their premium offerings and fosters loyalty.
+MORE: How real is the hypersonic aircraft revolution? 
+'Everybody likes an upgrade!'
+Let's say you've booked an economy class ticket. 
+You can then tell the airline, a few days before your trip, how much you'd be willing to pay for an upgrade. 
+The exact conditions are set by each airline. They can set up a minimum bid price and they can offer some guidance as to the likelihood of each bid being accepted. 
+The airline then examines the bids and, with some time left in advance, lets the passenger know whether they've been successful. 
+Ken Harris, CEO of U.S. company Plusgrade, whose software powers upgrade auctions at Austrian Airlines, Air New Zealand and Iberia, among others, is also keen to emphasize the experiential component. 
+"The bid-based model both engages and empowers the passenger to get a value-added experience at a price they are comfortable with, and maximizes the revenue potential for the carrier. 
+"Everybody likes an upgrade!"
+Gamification 
+At Israeli start-up Bidflyer, this sense of engagement and fun is central to its proposal. 
+In addition to helping airlines identify and sell distressed inventory, this technology company -- a graduate of Israeli flag-carrier El Al' Airlines' start-up incubator -- aims to extend the auction mechanism to all types of seat, while adding a gamification layer. 
+Skift reports the company has already raised $1 million in funding from an unknown investor. 
+Asaf Gedler, Bidflyer's founder and CEO, says it built its software with the social aspect in mind. 
+It means people can connect and share their bids via Facebook, see who the other bidders are, and compete with them in real time. 
+Every time someone outbids you, the system would be able to send you a notification, allowing you to counterbid immediately.
+This set-up could act as a powerful marketing tool in itself. 
+Think of how Ryanair's free flights kept people talking about the airline and strengthened its credentials as a price leader.
+MORE: Could Russia's Frigate Ecojet take on Airbus and Boeing? 
+Auctions for all
+While passengers might love the novelty of participating in a live bidding process, it's really just an extension of what already goes on every day at airline revenue management departments. 
+There, with the support of specialized software, prices are constantly updated in response to market conditions.
+Travercial's Barwood explains that the roll-out of auctions is part of the general trend of airlines using technology in order to provide their customers with an increasingly personalized experience. 
+Auctions, whether to sell upgrades or unsold seats, are a powerful addition to the toolbox of customer-centric airlines.

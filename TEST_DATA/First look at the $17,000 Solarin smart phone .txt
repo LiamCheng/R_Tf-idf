@@ -1,0 +1,42 @@
+The top-of-the-range phone promises military-grade encryption technology to protect users' calls and messages and is aimed squarely at business leaders, celebrities, VIPs and the super-rich. 
+Hailed by its makers as "the best smartphone in the world," Solarin has been two and a half years in development and is the first product unveiled by Israeli start-up Sirin Labs. 
+Up to ten times faster
+It has, company officials claim, the best screen, the best daylight smart phone camera, the richest and loudest speakers, more 4G LTE bands than any other phone ever, and WiFi speeds up to ten times faster than today's networks. 
+Want to download a full HD movie in just five seconds? Sirin Labs promises that too. 
+The one hitch is the price tag.
+Got a spare $17,000? The basic model is an eye-watering £9,500 plus VAT, or $16,560 including U.S. taxes.  
+MORE: Excess baggage: The rise of the $45,000 suitcase
+The best technology available
+"Price is not on our agenda," Sirin Labs' president and co-founder Moshe Hogeg told the crowd at London's swanky One Marylebone venue. 
+When "the price tag determines technology," says Hogeg, it means the world's most cutting-edge -- and expensive -- technology isn't available to the mass market, due to the constraints of creating an affordable product. 
+Sirin Labs says its approach is to use the best technology, security and design available -- then work out the cost later. 
+Privacy package
+So what does Solarin offer for your wads of dollars? 
+There's a "carefully curated privacy package," with Zimperium state-of-the-art mobile threat protection and KoolSpan military-grade chip-to-chip 256-bit AES encryption, which they say offers the "strongest possible mobile privacy protection worldwide." 
+MORE: Ben Gurion: the world's most secure airport? 
+It's globally optimized, meaning Solarin "connects with the speed of a local handset anywhere in the world," says Fredrik Oijer, Sirin Labs' vice president of product. 
+Company officials say it's also the first global smart phone with WiGig technology, offering speeds of up to 4.6Gbps, enabling near-instant cloud access, and synching of photos, videos and media. 
+Functionality
+It features a 23.8-megapixel camera, with laser autofocus and four-tone flash, plus a front-facing flash and 5.5" IPS LED 2k resolution screen, as well as a 120% sRGB colour gamut. 
+The sound system sound uses three bass-boosted speakers, linked through a smart amplifier to maximize volume but control distortion, and can go up to 90 decibels. 
+As for design, it seems they've consciously avoided the ostentatious bling you might expect from a phone in this price range. 
+The understated titanium and leather design is by celebrated industrial designer Karim Rashid, who's worked with Giorgio Armani, Alessi and Veuve Cliquot. 
+MORE: 'Bioneers' and tecno-organic 'globjects:' Karim Rashid's post-analog world
+International business travelers
+But is there a market for a phone that costs nearly $17,000 for its most basic model? 
+"Our core consumers are international business travelers that spend much of their lives on the move," says company co-founder and CEO Tal Cohen.  
+"Their mobile phones are increasingly used for business-critical and confidential information gathering," making privacy their top priority. 
+Zuk Avraham, CEO and founder of Zimperium mobile security, gave a live hacking demonstration at the press conference, telling CNN later, "You can buy off-the-shelf tools for about $20 online and hijack the latest androids or iPhones."
+Target for hackers
+"This is something that can happen to any one of us," says Cohen. "It's just a question of if you're targeted or not." 
+The affluent and influential customers Sirin Labs hopes to attract -- celebrities, VIPs and business leaders -- are particularly vulnerable to this kind of attack. 
+ "One of the most important things that we learnt during the last several years is that physical security has to go with cyber security," says Sirin Labs advisory board member Rami Efrati, founder and president of Israeli cyber security firm Firmitas.
+"All our lives are inside this small machine called the smart phone," he tells CNN.
+"I believe that the market is going to grow very quickly. People are ready to pay, because you know how much you are going to lose." 
+'No 100 percent secure solution'
+But is it possible to create a smart phone that is invulnerable to attack? And by declaring yourself the world's most secure smart phone, aren't you setting a challenge to every hacker on the planet? 
+"We're not saying it's unhackable," says Avraham. "But at least we will detect it. 
+"We'll be able to reverse-engineer the attacks, see what they tried to do. Even disinfect the phone without the user having to do anything. 
+"There is 24/7 incident response at both Zimperium and Sirin that monitors all of these devices.
+"There is no 100 percent secure solution, but the other alternative is to get hacked and not know about it." 
+Solarin is now available to buy online at sirinlabs.com, at their London store (34 Bruton Place, Mayfair) and at Harrods, Knightsbridge, London, from June 30. 
